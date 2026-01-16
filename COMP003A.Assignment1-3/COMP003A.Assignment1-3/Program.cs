@@ -37,6 +37,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("28. I am a military child.");
             Console.WriteLine("29. My favorite book is The Silent Patient.");
             Console.WriteLine("30. I love to visit aquariums.");
+            Console.WriteLine("31. I was the highest rank in Fortnite.");
+            Console.WriteLine("32. I am a son in a family of 5.");
+            Console.WriteLine("33. I am really excited to learn how to code.");
+            Console.WriteLine("34. It's hard for me to do homework without music.");
+            Console.WriteLine("35. Uniquely,I enjoy going to school.");
+            Console.WriteLine("36. My favorite color is light blue.");
+            Console.WriteLine("37. I struggle the most in English.");
+            Console.WriteLine("38. Patrick is my favorite Spongebob character.");
+            Console.WriteLine("39. I am in the house of Ravenclaw (Harry Potter).");
+            Console.WriteLine("40. My favorite character in Avatar: The Last Airbender is Zuko.");
         }
     }
 }
