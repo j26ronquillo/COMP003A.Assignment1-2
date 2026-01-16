@@ -47,6 +47,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("38. Patrick is my favorite Spongebob character.");
             Console.WriteLine("39. I am in the house of Ravenclaw (Harry Potter).");
             Console.WriteLine("40. My favorite character in Avatar: The Last Airbender is Zuko.");
+            Console.WriteLine("41. I want to visit Japan one day.");
+            Console.WriteLine("42. My dream car is a Rolls Royce.");
+            Console.WriteLine("43. After I learn how to code, I want to make a ROBLOX game.");
+            Console.WriteLine("44. I've been a Golden State Warrior fan since I was 7.");
+            Console.WriteLine("45. I have 4 plushies of Baymax from Big Hero Six.");
+            Console.WriteLine("46. I am 6 feet tall.");
+            Console.WriteLine("47. My favorite drink is hot chocolate.");
+            Console.WriteLine("48. I like looking into fashion.");
+            Console.WriteLine("49. My collection of POKEMON cards is valued at $600");
+            Console.WriteLine("50. I live in Lemoore.");
         }
     }
 }
