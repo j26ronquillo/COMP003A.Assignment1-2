@@ -57,6 +57,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("48. I like looking into fashion.");
             Console.WriteLine("49. My collection of POKEMON cards is valued at $600");
             Console.WriteLine("50. I live in Lemoore.");
+            Console.WriteLine("51. My favorite fast food place is In-N-Out.");
+            Console.WriteLine("52. I have been to 2 concerts.");
+            Console.WriteLine("53. I was a Boys and Girls State Delegate of 2025.");
+            Console.WriteLine("54. My favorite Demon Slayer character is Zenitsu.");
+            Console.WriteLine("55. My favorite Attack on Titan character is Eren Yaeger.");
+            Console.WriteLine("56. Out of all shapes, squares aare my favorite.");
+            Console.WriteLine("57. I have been attending Lemoore College for about 4 years.");
+            Console.WriteLine("58. I hate doing chores.");
+            Console.WriteLine("59. On the go, I love to use the Nintendo Switch.");
+            Console.WriteLine("60. I get so scared during horror movies.");
         }
     }
 }
