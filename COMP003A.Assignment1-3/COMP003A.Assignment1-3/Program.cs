@@ -27,6 +27,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("18. My favorite animes are Demon Slayer and Attack on Titan.");
             Console.WriteLine("19. My favorite soda is Fanta.");
             Console.WriteLine("20. I either want to go to UCLA or CalPoly SLO after high school.");
+            Console.WriteLine("21. I hate using wood pencils.");
+            Console.WriteLine("22. My favorite Mario characters are Toad and Yoshi.");
+            Console.WriteLine("23. I love to watch POKEMON.");
+            Console.WriteLine("24. My birthday is November 26.");
+            Console.WriteLine("25. I love to sing and dance.");
+            Console.WriteLine("26. My favorite number is 26.");
+            Console.WriteLine("27. My favorite game is Valorant.");
+            Console.WriteLine("28. I am a military child.");
+            Console.WriteLine("29. My favorite book is The Silent Patient.");
+            Console.WriteLine("30. I love to visit aquariums.");
         }
     }
 }
