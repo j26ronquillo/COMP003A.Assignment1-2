@@ -87,6 +87,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("78. I enjoy glamping outdoors with my family and friends.");
             Console.WriteLine("79. My favorite fruits are mangoes, grapes, and pineapples.");
             Console.WriteLine("80. I am a Panthers and 49ers fan in the NFL.");
+            Console.WriteLine("81. My favorite boy KPop groups are BoyNextDoor and CORTIS.");
+            Console.WriteLine("82. My favorite girl KPop groups are Aespa, TWICE and Le Serrafim.");
+            Console.WriteLine("83. My favorite animal is the panda.");
+            Console.WriteLine("84. I am an ASG member in Lemoore College.");
+            Console.WriteLine("85. In my Journalism class, I am the head director.");
+            Console.WriteLine("86. I love to ice skate indoors.");
+            Console.WriteLine("87. I enjoy doing escape rooms with my friends.");
+            Console.WriteLine("88. My hairstyle right now is a middle part.");
+            Console.WriteLine("89. Cookies and cream is my favorite ice cream flavor.");
+            Console.WriteLine("90. I want to major in computer engineering in college.");
 
         }
     }
