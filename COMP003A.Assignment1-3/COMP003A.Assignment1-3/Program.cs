@@ -77,6 +77,17 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("68. I want to learn how to flare/windmill dance.");
             Console.WriteLine("69. My favorite non-ball sport is breakdancing.");
             Console.WriteLine("70. This is my first time learning how to code.");
+            Console.WriteLine("71. I am a middle child.");
+            Console.WriteLine("72. I hate coffee.");
+            Console.WriteLine("73. I love to listen to slow songs, but upbeat song for homework.");
+            Console.WriteLine("74. I post a picture with my friend everyday on an Instagram account.");
+            Console.WriteLine("75. My favorite food to eat is steak.");
+            Console.WriteLine("76. I can juggle two items with one hand.");
+            Console.WriteLine("77. I want to have a small little puppy when I live alone.");
+            Console.WriteLine("78. I enjoy glamping outdoors with my family and friends.");
+            Console.WriteLine("79. My favorite fruits are mangoes, grapes, and pineapples.");
+            Console.WriteLine("80. I am a Panthers and 49ers fan in the NFL.");
+
         }
     }
 }
