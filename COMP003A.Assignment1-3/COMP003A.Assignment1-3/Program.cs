@@ -97,7 +97,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("88. My hairstyle right now is a middle part.");
             Console.WriteLine("89. Cookies and cream is my favorite ice cream flavor.");
             Console.WriteLine("90. I want to major in computer engineering in college.");
-
+            Console.WriteLine("91. I love to swim.");
+            Console.WriteLine("92. I went to Akers in middle school.");
+            Console.WriteLine("93. I like orange juice more than apple juice.");
+            Console.WriteLine("94. I have spent over 900 dollars on videogames (bad habit.)");
+            Console.WriteLine("95. I am on the route to valedictorian in my high school.");
+            Console.WriteLine("96. My favorite mystery movie is Knives Out: Wake Up Dead Man.");
+            Console.WriteLine("97. My favorite roller coaster is X-Treme in Six Flags.");
+            Console.WriteLine("98. I enjoy going on beach walks.");
+            Console.WriteLine("99. I believe I have a fast metabolism.");
+            Console.WriteLine("100. I am a very sentimental person, so this last line is making me sad.");
         }
     }
 }
