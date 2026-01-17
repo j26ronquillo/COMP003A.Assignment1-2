@@ -67,6 +67,16 @@ namespace COMP003A.Assignment1_3
             Console.WriteLine("58. I hate doing chores.");
             Console.WriteLine("59. On the go, I love to use the Nintendo Switch.");
             Console.WriteLine("60. I get so scared during horror movies.");
+            Console.WriteLine("61. I secretly love to watch badminton.");
+            Console.WriteLine("62. I was born in Japan, however quickly moved out.");
+            Console.WriteLine("63. I hold about 113 hours of volunteering and community service.");
+            Console.WriteLine("64. My whole first name is Josh Alvin.");
+            Console.WriteLine("65. My favorite legal drama is Suits.");
+            Console.WriteLine("66. I have a very low social battery.");
+            Console.WriteLine("67. 67 is the funniest number to me.");
+            Console.WriteLine("68. I want to learn how to flare/windmill dance.");
+            Console.WriteLine("69. My favorite non-ball sport is breakdancing.");
+            Console.WriteLine("70. This is my first time learning how to code.");
         }
     }
 }
